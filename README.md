@@ -2,7 +2,7 @@
 The Cr0sh exploit is here on any version that has cr0sh blocked!
 
 # History:
--> I (https://github.com/HelloIloveGimkit2) found this when I was trying to do cr0sh my school had blocked it I power washed and was able to do it! <br> 
+-> I (https://github.com/HelloIloveGimkit2) found this when I was trying to do cr0sh-vmc my school had blocked it I power washed and was able to do it! <br> 
 -> I (https://github.com/HelloIloveGimkit2) created a writeup. <br> 
 
 # Requirements:
