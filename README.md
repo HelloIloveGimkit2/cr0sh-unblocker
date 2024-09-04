@@ -18,7 +18,7 @@ The Cr0sh exploit is here on any version that has cr0sh blocked!
 7. And boom unblocked cr0sh
 ## The next instructions are for cr0sh vmc
 8. type in vmc to see if it's blocked
-9. then just follow 3kh0's steps [his github](https://github.com/3kh0/ext-remover/discussions)
+9. then just follow 3kh0's steps [his github](https://github.com/3kh0/ext-remover/discussions) look for the discussion CR0SH VMC I DID NOT SEE ON LIST
 
 
 # Notes:
